@@ -1,16 +1,12 @@
-### Hi there 👋
+# Welcome on my Page👌
+Hi, I'm Stramis. I'm a french developer who learn everyday more about dev.
+# My Main languages
+What I know:
+* [Python](python.org)([Discord Bots](https://discordpy.readthedocs.io/en/stable/))
+* [Arduino](arduino.org)
+* [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
 
-<!--
-**Debrinn/Debrinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I learn:
+* [Angular](angular.io)
+* [Java](java.com)
