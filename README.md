@@ -11,4 +11,4 @@ What I learn:
 * [Angular](angular.io)
 * [Java](java.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derbinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debrinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
