@@ -8,5 +8,5 @@ What I learn:
 * [Angular](angular.io)
 * [Java](java.com)
 
-#Actually in MP2I
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debrinn&layout=compact)](https://github.com/Debrinn/Debrinn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debrinn&layout=compact&theme=dark)](https://github.com/Debrinn/Debrinn)
