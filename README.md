@@ -1,5 +1,5 @@
-# Welcome on my Page👌
-Hi, I'm Stramis. I'm a french developer who learn everyday more about dev.
+# HEY 👌
+Hi, I'm Stramis. I'm a french developer
 # My Main languages
 Somes skills:
 * [Python](python.org), [Arduino](arduino.org), [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
